@@ -1,4 +1,3 @@
-markdown
 # Food Nutrition API
 
 This Node.js application provides an API for retrieving nutrition information for food items. It supports two methods of input: providing an image of the food or providing a string with the names of the foods.
